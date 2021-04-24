@@ -1,6 +1,6 @@
 ---
 title: Resume
-author: ''
+author: "Phanikumar S Tata"
 date: '2021-04-24'
 slug: resume
 categories: []

@@ -31,13 +31,13 @@ social:
   link: https://twitter.com/kumar11221975
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.umes.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/tataphani
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/tataphani
+  link: https://www.linkedin.com/in/tataphani
 superuser: true
 title: Phanikumar S tata
 ---
@@ -45,5 +45,7 @@ title: Phanikumar S tata
 Phanikumar S tata is a principal Statistical programmer at the Syneos Health. His works includes extracting CDISC standard SDTM and ADaM datasets. Generating various Clinical safety and efficacy Tables using [SAS](www.sas.com) statistical software.
 
 My detailed resume.
+
+{{< icon name="download" pack="fas" >}} View my {{< contentref "content/authors/admin/2021-04-24-resume/index.en.html" "newtab" >}}resumé{{< /contentref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
