@@ -24,10 +24,11 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  
+- description: 100%
+  icon: "SAS_logo_horiz"
+  icon_pack: "custom"
+  name: SAS
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
