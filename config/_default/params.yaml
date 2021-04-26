@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: tataphani@gmail.com
+phone: 512 621 5484
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 12345 Lamplight avenue
+  city: Austin
+  region: TX
+  postcode: '78758'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '30.4125'
+  longitude: '-97.6965'
+directions: Enter Building and call me 
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -76,9 +76,9 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - SAS
+  - R
   - python
-  - latex
 math: false
 diagram: false
 privacy_pack: false
