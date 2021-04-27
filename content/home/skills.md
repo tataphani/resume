@@ -25,11 +25,11 @@ feature:
   icon_pack: fas
   name: Statistics
   
-- description: 100%
-  icon: "SAS_logo_horiz"
+- icon: "SAS_logo_horiz"
   icon_pack: "custom"
-  name: SAS
-
+  name: "SAS"
+  description: 100%
+  
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
