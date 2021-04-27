@@ -28,7 +28,7 @@ feature:
 - icon: "SAS_logo_horiz"
   icon_pack: "custom"
   name: "SAS"
-  description: 100%
+  description: "100%"
   
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
