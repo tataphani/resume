@@ -23,12 +23,14 @@
   </head>
   <body>
 
-<p>.pagedjs_page:not(:first-of-type) {
-–sidebar-width: 0rem;
-–sidebar-background-color: #ffffff;
-–main-width: calc(var(–content-width) - var(–sidebar-width));
-–decorator-horizontal-margin: 0.2in;
-}</p>
+<!-- ```{r , echo=FALSE} -->
+<!-- .pagedjs_page:not(:first-of-type) { -->
+<!--   --sidebar-width: 0rem; -->
+<!--   --sidebar-background-color: #ffffff; -->
+<!--   --main-width: calc(var(--content-width) - var(--sidebar-width)); -->
+<!--   --decorator-horizontal-margin: 0.2in; -->
+<!--   } -->
+<!-- ``` -->
 <div id="aside" class="section level1">
 <h1>Aside</h1>
 <p><img src="images/personnel_image.JPG" width="60" height="60" alt="Phanikumar S tata" /></p>
@@ -40,30 +42,44 @@
 <li><p><i class="fa fa-phone"></i> +1 512-621-5484</p></li>
 <li><p><i class="fab fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Phanikumar_Tata">ResearchGate</a></p></li>
 <li><p><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/tataphani">Linkedin</a></p></li>
-<li><p><i class="fas fa-rss"></i>
-<a href="https://www.sas2r.netlify.com">Professional Blog</a></p></li>
+<li><p><i class="fas fa-rss"></i> <a href="https://www.sas2r.netlify.com">Professional Blog</a></p></li>
 <li><p>For more information, please contact me via email.</p></li>
 </ul>
 </div>
 <div id="Hobbies" class="section level2">
 <h2>Hobbies</h2>
 <ul>
-<li><i class="fa fa-running"></i> Running</li>
 <li><i class="fa fa-bicycle" aria-hidden = "true"></i> Biking</li>
+<li><i class="fas fa-running" aria-hidden = "true"></i> Running <!--#  --></li>
 </ul>
 </div>
 <div id="skills" class="section level2">
 <h2>Skills</h2>
-<ul>
-<li><p>Experienced in doing statistical analysis, statistical learning models, and optimization methods.</p></li>
-<li><p>Full experience in generation of Safety and Efficacy Table/Listings/figures for all Phases of Clinical trial data analysis.</p></li>
-<li><p>Highly skilled in SAS Language, Intermediate R, Starting with Python</p></li>
-</ul>
-</div>
-<div id="disclaimer" class="section level2">
-<h2>Disclaimer</h2>
-<p>This resume was made with the R package <a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
-<p>Last updated on 2021-04-28.</p>
+<ol style="list-style-type: decimal">
+<li><p>Experienced in doing statistical analysis, statistical learning models</p></li>
+<li><p>Full experience in generation of Safety and Efficacy Table/Listings/figures for all Phases of Clinical trial data analysis.</p>
+<table style="width:53%;">
+<caption>Skill level</caption>
+<colgroup>
+<col width="23%" />
+<col width="29%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>SAS</td>
+<td>Excellent</td>
+</tr>
+<tr class="even">
+<td>R</td>
+<td>Good</td>
+</tr>
+<tr class="odd">
+<td>Python</td>
+<td>Learning</td>
+</tr>
+</tbody>
+</table></li>
+</ol>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -108,8 +124,7 @@
 <p>2015- Present</p>
 <div class="concise">
 <ul>
-<li>Created Safety and efficacy reports as requested by statisticians.
-Working on</li>
+<li>Created Safety and efficacy reports as requested by statisticians. Working on</li>
 <li>Taught R language to beginners.</li>
 <li>Wrote Shiny app demos.</li>
 <li>Converted statistical tutorials from SAS to R language.</li>
@@ -186,7 +201,13 @@ Working on</li>
 <p>Teaching assistant of Business school EC2-201 courses at UMD</p>
 <p>MD, USA</p>
 <p>2002 - 2004</p>
+<!-- ## Disclaimer {#disclaimer} -->
 </div>
+</div>
+<div id="disclaimer" class="section level2">
+<h2>Disclaimer</h2>
+<p>This resume was made with the R package <a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
+<p>Last updated on 2021-04-28.</p>
 </div>
 </div>
 
