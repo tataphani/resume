@@ -15,6 +15,12 @@ output:
 knit: pagedown::chrome_print
 ---
 
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
 
 # Aside
 
@@ -25,12 +31,19 @@ knit: pagedown::chrome_print
 -   <i class="fa fa-envelope"></i> [tataphani\@gmail.com](mailto:tataphani@gmail.com){.email}
 -   <i class="fa fa-github"></i> [github.com/Phanikumar](https://github.com/rlearner22)
 -   <i class="fa fa-phone"></i> +1 512-621-5484
+
+- <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Phanikumar_Tata)
+- <i class="fa fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/tataphani)
+- <i class="fas fa-rss"></i> 
+[Professional Blog](https://www.sas2r.netlify.com)
+
+
 -   For more information, please contact me via email.
 
 ## Hobbies {#Hobbies}
-
+-   <i class="fa fa-running"></i> Running 
 -   <i class="fa fa-bicycle" aria-hidden = "true"></i> Biking 
--   <i class="fa fa-music"   aria-hidden = "true"></i> Listing to Music
+
 
 ## Skills {#skills}
 
@@ -159,3 +172,32 @@ Feb 2006- October 2007
 - Developed/Validated SAS programs/Macros for creating SDTM datasets 
 - Developed System macro using %SYSINFO 
 :::
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Studio Language for Beginners.
+
+Instructor of R and R studio Training Courses at Carpenters.
+
+TX, US
+
+2020
+
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and R studio Training Courses at Syneos Health.
+
+TX, US
+
+2020
+
+### Macro economics.
+
+Teaching assistant of Business school EC2-201 courses at UMD
+
+MD, USA
+
+2002 - 2004
+
