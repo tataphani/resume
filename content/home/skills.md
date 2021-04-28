@@ -20,15 +20,16 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+  
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
   
-- icon: "SAS_logo_horiz"
-  icon_pack: "custom"
-  name: "SAS"
-  description: "100%"
+- icon: SAS_logo_horiz
+  icon_pack: custom
+  name: SAS
+  description: 100%
   
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
