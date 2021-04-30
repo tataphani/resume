@@ -39,7 +39,7 @@ knit: pagedown::chrome_print
 
 -   <i class="fa fa-envelope"></i> [tataphani\@gmail.com](mailto:tataphani@gmail.com){.email}
 
--   <i class="fa fa-github"></i> [github.com/Phanikumar](https://github.com/rlearner22)
+-   <i class="fa fa-github"></i> [github.com/Phanikumar](https://github.com/tataphani)
 
 -   <i class="fa fa-phone"></i> +1 512-621-5484
 
@@ -209,10 +209,26 @@ MD, USA
 
 2002 - 2004
 
+## Domain Experience {data-icon="bars"}
+
++---------------------------+------------------------+---------------------+
+| Therapeutic Area          | Project                | Years of Experience |
++===========================+========================+=====================+
+| Oncology                  | Bayer                  | 5                   |
++---------------------------+------------------------+---------------------+
+| Auto Immune               | Lilly                  | 4                   |
++---------------------------+------------------------+---------------------+
+| Diabetics                 | UCB, PPD               | 3                   |
++---------------------------+------------------------+---------------------+
+| Pain                      | Progenics              | 1                   |
++---------------------------+------------------------+---------------------+
+
+: Project Experience
 
 <!-- ## Disclaimer {#disclaimer} -->
 
-## Disclaimer {#disclaimer}  
+## Disclaimer {#disclaimer}
+
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
